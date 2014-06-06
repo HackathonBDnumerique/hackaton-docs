@@ -35,12 +35,12 @@ Plus d'aide
 Exemples – support pour les scenarios 
 ------------------------------------
 
- - http://goodcomics.comicbookresources.com/wp-content/uploads/2009/12/battlestar3.jpg 
- - http://www.du9.org/entretien/hugues-micol/ 
- - http://leblogamalec.blogspot.fr/2013/11/newton.html 
- - http://everylastdrop.co.uk/ 
- - http://stephenvuillemin.com/ANIMATED-COMICS-EXTRACT-3 
- - http://www.bouletcorp.com/blog/2013/08/02/le-long-voyage/ 
- - http://comic.naver.com/webtoon/detail.nhn?titleId=350217&no=20&weekday=tue
+ 1. http://goodcomics.comicbookresources.com/wp-content/uploads/2009/12/battlestar3.jpg 
+ 1. http://www.du9.org/entretien/hugues-micol/ 
+ 1. http://leblogamalec.blogspot.fr/2013/11/newton.html 
+ 1. http://everylastdrop.co.uk/ 
+ 1. http://stephenvuillemin.com/ANIMATED-COMICS-EXTRACT-3 
+ 1. http://www.bouletcorp.com/blog/2013/08/02/le-long-voyage/ 
+ 1. http://comic.naver.com/webtoon/detail.nhn?titleId=350217&no=20&weekday=tue
 
 
