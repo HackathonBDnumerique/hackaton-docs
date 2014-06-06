@@ -35,8 +35,7 @@ Plus d'aide
 Exemples – support pour les scenarios 
 ------------------------------------
 
- - http://goodcomics.comicbookresources.com/wp-content/uploads/
-2009/12/battlestar3.jpg 
+ - http://goodcomics.comicbookresources.com/wp-content/uploads/2009/12/battlestar3.jpg 
  - http://www.du9.org/entretien/hugues-micol/ 
  - http://leblogamalec.blogspot.fr/2013/11/newton.html 
  - http://everylastdrop.co.uk/ 
